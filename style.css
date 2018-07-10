@@ -1,0 +1,9 @@
+.elemento-no-centro{
+      text-align: center;
+}
+.plano-de-fundo{
+  background-image: url("fundo.jpg");
+}
+.texto-azul{
+  color: #1B1464
+}
