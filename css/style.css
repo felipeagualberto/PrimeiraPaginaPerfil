@@ -1,9 +1,21 @@
 .elemento-no-centro{
       text-align: center;
 }
+
 .plano-de-fundo{
-  background-image: url("../img/fundo.jpg");
+  background-image: url("../img/fundo1.jpg");
 }
+
 .texto-azul{
-  color: #1B1464
+  color: white
+  /* color: #1B1464 */
+}
+
+header .intro-text {
+    padding-top: 300px;
+    padding-bottom: 200px;
+}
+
+.img-circle {
+  border-radius: 50%;
 }
